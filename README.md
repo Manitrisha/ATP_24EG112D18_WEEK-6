@@ -182,25 +182,4 @@ Example:
 - Add routing using React Router
 - Deploy applications online
 
----
-
-# 🧑‍💻 Author
-
-**Manitrisha**
-
-GitHub: `your-github-profile-link`
-
----
-
-
-# ⭐ Support
-
-If you found this repository helpful:
-
-- Give it a ⭐ on GitHub
-- Fork the repository
-- Share with others
-
----
-
 > “Learning React is all about building reusable UI components and managing data efficiently.” ⚛️
